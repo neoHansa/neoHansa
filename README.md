@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @neoHansa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# *neo Hansa* 
 
-<!---
-neoHansa/neoHansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### The GitHub profile of a startup building the foundations for a `Modern Trade League`. <br>It serves as a repository for archiving ideas and hosting the main website. 
+
+
+#### Feel free to reach out via social media (DMs are open).
+
+
+#### [𝕏 / Twitter @neo_hansa](https://x.com/neo_hansa)
+
+
+### Main website: [neohansa.com](https://neohansa.com)
+
