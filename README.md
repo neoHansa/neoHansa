@@ -1,4 +1,4 @@
-# *neo Hansa* 
+# *neo Hansa*  
 
 
 #### The GitHub profile of a startup building the foundations for a `Modern Trade League`. <br>It serves as a repository for archiving ideas and hosting the main website. 
